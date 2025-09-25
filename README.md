@@ -1,2 +1,2 @@
 # redteam-training
-from zero to read team 
+from zero to red team 
